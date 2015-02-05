@@ -2487,5 +2487,5 @@
     <string name="encrypt_talkback_dialog_message_password" msgid="8166099418487083927">"Wenn Sie zum Starten dieses Geräts Ihr Passwort eingeben, stehen Dienste für Bedienungshilfen wie <xliff:g id="SERVICE">%1$s</xliff:g> noch nicht zur Verfügung."</string>
   <string name="marcs_settings_label">Marcseinstellungen</string>
   <string name="marcs_settings_question">Magische Dinge zum rechts</string>
-  <string name="marcs_settings_message">Danke für hier kommen!\n\nMit lieben aus Canada,\nMarc</string>
+  <string name="marcs_settings_message">Danke für hier kommen!\n\nMit lieben aus Kanada,\nMarc</string>
 </resources>
