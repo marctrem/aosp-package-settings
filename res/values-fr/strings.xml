@@ -2484,4 +2484,7 @@
     <string name="encrypt_talkback_dialog_message_pin" msgid="1890374082842868489">"Lorsque vous saisissez votre code PIN pour démarrer cet appareil, les services d\'accessibilité comme <xliff:g id="SERVICE">%1$s</xliff:g> ne sont pas disponibles."</string>
     <string name="encrypt_talkback_dialog_message_pattern" msgid="4474332516537386384">"Lorsque vous dessinez votre motif pour démarrer cet appareil, les services d\'accessibilité comme <xliff:g id="SERVICE">%1$s</xliff:g> ne sont pas disponibles."</string>
     <string name="encrypt_talkback_dialog_message_password" msgid="8166099418487083927">"Lorsque vous saisissez votre mot de passe pour démarrer cet appareil, les services d\'accessibilité comme <xliff:g id="SERVICE">%1$s</xliff:g> ne sont pas disponibles."</string>
+  <string name="marcs_settings_label">Paramètres de Marc</string>
+  <string name="marcs_settings_question">Choses magiques à droite</string>
+  <string name="marcs_settings_message">Thanks d\'être passé!\n\nAvec amour, du Canada,\nMarc</string>
 </resources>

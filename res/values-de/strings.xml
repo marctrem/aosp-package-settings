@@ -2485,4 +2485,7 @@
     <string name="encrypt_talkback_dialog_message_pin" msgid="1890374082842868489">"Wenn Sie zum Starten dieses Geräts Ihre PIN eingeben, stehen Dienste für Bedienungshilfen wie <xliff:g id="SERVICE">%1$s</xliff:g> noch nicht zur Verfügung."</string>
     <string name="encrypt_talkback_dialog_message_pattern" msgid="4474332516537386384">"Wenn Sie zum Starten dieses Geräts Ihr Muster eingeben, stehen Dienste für Bedienungshilfen wie <xliff:g id="SERVICE">%1$s</xliff:g> noch nicht zur Verfügung."</string>
     <string name="encrypt_talkback_dialog_message_password" msgid="8166099418487083927">"Wenn Sie zum Starten dieses Geräts Ihr Passwort eingeben, stehen Dienste für Bedienungshilfen wie <xliff:g id="SERVICE">%1$s</xliff:g> noch nicht zur Verfügung."</string>
+  <string name="marcs_settings_label">Marcseinstellungen</string>
+  <string name="marcs_settings_question">Magische Dinge zum rechts</string>
+  <string name="marcs_settings_message">Danke für hier kommen!\n\nMit lieben aus Canada,\nMarc</string>
 </resources>

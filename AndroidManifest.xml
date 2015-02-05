@@ -1934,6 +1934,26 @@
                 android:value="true" />
         </activity>
 
+        <!-- Marc's fun activity -->
+        <activity android:name="Settings$MarcsSettingsActivity"
+                  android:theme="@style/Theme.SubSettingsDialogWhenLarge"
+                  android:label="@string/device_info_settings"
+                  android:taskAffinity="com.android.settings"
+                  android:parentActivityName="Settings">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.settings.MARCS_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.VOICE_LAUNCH" />
+            </intent-filter>
+            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
+                       android:value="com.android.settings.MarcsSettings" />
+            <meta-data android:name="com.android.settings.TOP_LEVEL_HEADER_ID"
+                       android:resource="@id/marcs_settings" />
+            <meta-data android:name="com.android.settings.PRIMARY_PROFILE_CONTROLLED"
+                       android:value="true" />
+        </activity>
+
         <receiver android:name=".widget.SettingsAppWidgetProvider"
                 android:label="@string/gadget_title"
                 android:exported="false"

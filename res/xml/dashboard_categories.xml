@@ -241,6 +241,14 @@
                 android:icon="@drawable/ic_settings_about"
                 />
 
+        <!-- Marc's special settings -->
+        <dashboard-tile
+                android:id="@+id/marcs_settings"
+                android:title="@string/marcs_settings_label"
+                android:fragment="com.android.settings.MarcsSettings"
+                android:icon="@drawable/ic_settings_accessibility"
+                />
+
     </dashboard-category>
 
 </dashboard-categories>
